@@ -1,5 +1,5 @@
 # Marker-based-augmented-reality
-試作品
+マーカベースのARの試作品
 
 カメラキャリブレーションと3次元座標取得とAR
 
