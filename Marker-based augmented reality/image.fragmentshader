@@ -1,0 +1,19 @@
+#version 330 core
+
+// Input data
+in vec2 UV;
+
+// Ouput data
+out vec3 color;
+
+uniform sampler2D image_texture_sampler;
+
+
+
+void main()
+{
+//color=vec3(1,0,0);
+//color = texture(image_texture_sampler, vec2(0.5,0.5)).rgb;
+color = texture(image_texture_sampler, UV).rgb;
+
+}

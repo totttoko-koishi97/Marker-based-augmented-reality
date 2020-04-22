@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Marker-based augmented reality", "Marker-based augmented reality\Marker-based augmented reality.vcxproj", "{9BC54C9C-6439-4A8F-9F24-34DEF5367E52}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera_Calibration", "Camera_Calibration\Camera_Calibration.vcxproj", "{61842BBF-D64F-48FD-8F21-81C68F78BA70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3dcordinate", "3dcordinate\3dcordinate.vcxproj", "{74C8DBE6-9B14-4255-81C6-E185C70FF645}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{9BC54C9C-6439-4A8F-9F24-34DEF5367E52}.Release|x64.Build.0 = Release|x64
 		{9BC54C9C-6439-4A8F-9F24-34DEF5367E52}.Release|x86.ActiveCfg = Release|Win32
 		{9BC54C9C-6439-4A8F-9F24-34DEF5367E52}.Release|x86.Build.0 = Release|Win32
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Debug|x64.ActiveCfg = Debug|x64
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Debug|x64.Build.0 = Debug|x64
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Debug|x86.ActiveCfg = Debug|Win32
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Debug|x86.Build.0 = Debug|Win32
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Release|x64.ActiveCfg = Release|x64
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Release|x64.Build.0 = Release|x64
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Release|x86.ActiveCfg = Release|Win32
+		{61842BBF-D64F-48FD-8F21-81C68F78BA70}.Release|x86.Build.0 = Release|Win32
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Debug|x64.ActiveCfg = Debug|x64
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Debug|x64.Build.0 = Debug|x64
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Debug|x86.ActiveCfg = Debug|Win32
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Debug|x86.Build.0 = Debug|Win32
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Release|x64.ActiveCfg = Release|x64
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Release|x64.Build.0 = Release|x64
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Release|x86.ActiveCfg = Release|Win32
+		{74C8DBE6-9B14-4255-81C6-E185C70FF645}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
